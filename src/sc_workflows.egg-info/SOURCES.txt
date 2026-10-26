@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/sc_workflows/__init__.py
+src/sc_workflows/preprocessing.py
+src/sc_workflows/qc.py
+src/sc_workflows.egg-info/PKG-INFO
+src/sc_workflows.egg-info/SOURCES.txt
+src/sc_workflows.egg-info/dependency_links.txt
+src/sc_workflows.egg-info/requires.txt
+src/sc_workflows.egg-info/top_level.txt

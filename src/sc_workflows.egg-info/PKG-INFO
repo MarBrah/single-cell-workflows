@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: sc-workflows
+Version: 0.1.0
+Summary: Reusable single-cell analysis workflows
+Requires-Python: >=3.11
+Requires-Dist: scanpy
+Requires-Dist: anndata
