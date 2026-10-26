@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Environments
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Single-cell datasets
+*.h5ad
+*.h5mu
+*.loom
+*.h5
+*.zarr/
+
+# Local data and results
+data/
+results/
